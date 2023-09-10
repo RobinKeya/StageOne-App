@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StageOne</string>
+    <string name="name">Robinson Chemaimak</string>
+    <string name="image">profile image</string>
+    <string name="my_github">MY Github</string>
+    <string name="github_url"></string>
+</resources>
