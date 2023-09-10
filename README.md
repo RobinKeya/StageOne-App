@@ -10,7 +10,7 @@ Min API level : 28
 
 ## Appetize link.
 
-Link:  [appetize.io/app/veqaoqxznqlylpsxb7bxnxmcdq?device=pixel4&osVersion=11.0&scale=75](appetize.io/app/veqaoqxznqlylpsxb7bxnxmcdq?device=pixel4&osVersion=11.0&scale=75)
+Link:  [appetize.io/app/veqaoqxznqlylpsxb7bxnxmcdq?device=pixel4&osVersion=11.0&scale=75](https://appetize.io/app/veqaoqxznqlylpsxb7bxnxmcdq?device=pixel4&osVersion=11.0&scale=75)
 
 ## Permission.
 The application requires internet connection to be able to access github account after clicking "my github" button.
